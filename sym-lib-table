@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name dcdc)(type Legacy)(uri /home/michi/projects/rgbww-micro/rgbww-micro-board/dcdc.lib)(options "")(descr ""))
+)
