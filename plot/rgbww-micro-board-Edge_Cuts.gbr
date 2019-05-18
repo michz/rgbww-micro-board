@@ -1,14 +1,13 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,5.0.1*%
-%TF.CreationDate,2019-02-20T12:32:28+01:00*%
-%TF.ProjectId,rgbww-micro-board,72676277772D6D6963726F2D626F6172,rev?*%
+%TF.GenerationSoftware,KiCad,Pcbnew,5.1.2-f72e74a~84~ubuntu18.04.1*%
+%TF.CreationDate,2019-05-18T14:46:29+02:00*%
+%TF.ProjectId,rgbww-micro-board,72676277-772d-46d6-9963-726f2d626f61,rev?*%
 %TF.SameCoordinates,PXb903480PY55d4a80*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.0.1) date Mi 20 Feb 2019 12:32:28 CET*
+G04 Created by KiCad (PCBNEW 5.1.2-f72e74a~84~ubuntu18.04.1) date 2019-05-18 14:46:29*
 %MOMM*%
 %LPD*%
-G01*
 G04 APERTURE LIST*
 %ADD10C,0.200000*%
 G04 APERTURE END LIST*

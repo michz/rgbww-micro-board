@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/michi/projects/rgbww-micro/rgbww-micro-board/rgbww-micro-board.sch)
-    (date "Sa 18 Mai 2019 14:30:32 CEST")
+    (date "Sa 18 Mai 2019 14:37:08 CEST")
     (tool "Eeschema 5.1.2-f72e74a~84~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:rgbww-micro-board-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -1044,4 +1044,56 @@ Text Label 8900 4700 0    50   ~ 0
 CW
 Text Label 9300 4700 0    50   ~ 0
 WW
+$Comp
+L power:GND #PWR01
+U 1 1 5CE12DA5
+P 1850 6500
+F 0 "#PWR01" H 1850 6250 50  0001 C CNN
+F 1 "GND" H 1855 6327 50  0000 C CNN
+F 2 "" H 1850 6500 50  0001 C CNN
+F 3 "" H 1850 6500 50  0001 C CNN
+	1    1850 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J20
+U 1 1 5CE12DAB
+P 1600 6300
+F 0 "J20" H 1600 6500 50  0000 C CNN
+F 1 "GND" H 1600 6400 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill0.8mm" H 1600 6300 50  0001 C CNN
+F 3 "~" H 1600 6300 50  0001 C CNN
+	1    1600 6300
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1800 6300 1850 6300
+Wire Wire Line
+	1850 6300 1850 6500
+$Comp
+L power:GND #PWR02
+U 1 1 5CE12DB3
+P 1850 7050
+F 0 "#PWR02" H 1850 6800 50  0001 C CNN
+F 1 "GND" H 1855 6877 50  0000 C CNN
+F 2 "" H 1850 7050 50  0001 C CNN
+F 3 "" H 1850 7050 50  0001 C CNN
+	1    1850 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Female J21
+U 1 1 5CE12DB9
+P 1600 6850
+F 0 "J21" H 1600 7050 50  0000 C CNN
+F 1 "GND" H 1600 6950 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill0.8mm" H 1600 6850 50  0001 C CNN
+F 3 "~" H 1600 6850 50  0001 C CNN
+	1    1600 6850
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1800 6850 1850 6850
+Wire Wire Line
+	1850 6850 1850 7050
 $EndSCHEMATC
